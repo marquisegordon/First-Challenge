@@ -8,6 +8,7 @@
 
 
 ![image](./assets/images/screenshot.png)
+![image](./assets/images/screenshot_02.png)
 
 ## Link to Webpage
 https://marquisegordon.github.io/first-challenge
